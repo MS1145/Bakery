@@ -1607,7 +1607,7 @@ textarea:-ms-input-placeholder {
 }
 
 .social_icons li a:hover {
-  background: #2b4174;
+  background: #000000;
   transform: translateY(-3px);
 }
 
@@ -1627,7 +1627,7 @@ textarea:-ms-input-placeholder {
 }
 
 .footer_widgets {
-  background: #2b4174;
+  background: #4b4376;
 }
 
 .main_footer {
